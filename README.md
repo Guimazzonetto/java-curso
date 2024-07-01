@@ -80,3 +80,19 @@ O carro novo, é um objeto, mas na loja em que você comprou possuem diversos ou
     }
   }
   ```
+
+  ### Convenções do código em Java
+
+  - Nomes de classes devem começar com letra maiúscula e usar a convenção PascalCase (também conhecida como Upper CamelCase);
+
+  - Nomes de métodos devem começar com letra minúscula e usar a convenção camelCase;
+
+  - Nomes de constantes devem ser totalmente em letras maiúsculas, separadas por underline;
+
+  - Nomes de variáveis devem começar com letra minúscula e usar a convenção camelCase;
+
+  - Todas as linhas de código devem ter no máximo 80 caracteres de largura para facilitar a leitura;
+
+  - Recomenda-se usar espaços em branco para separar operadores, palavras-chave e elementos de controle de fluxo;
+
+  - Use comentários para documentar seu código, explicando o que ele faz e por que ele faz isso. Comentários devem ser claros e concisos.
