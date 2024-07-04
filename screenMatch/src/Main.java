@@ -9,11 +9,10 @@ public class Main {
 
     // Chamando o método
     meuFilme.exibeFichaTecnica();
-    meuFilme.avalia(8);
-    meuFilme.avalia(5);
-    meuFilme.avalia(10);
-    System.out.println(meuFilme.somaDasAvaliacoes);
-    System.out.println(meuFilme.totalDeAvaliacoes);
+    meuFilme.avalia(7);
+    meuFilme.avalia(7);
+    meuFilme.avalia(7);
+    System.out.println("Total de avaliações: " + meuFilme.getTotalDeAvaliacoes());
     System.out.println("Minha média é: " + meuFilme.pegaMedia());
   }
 }
